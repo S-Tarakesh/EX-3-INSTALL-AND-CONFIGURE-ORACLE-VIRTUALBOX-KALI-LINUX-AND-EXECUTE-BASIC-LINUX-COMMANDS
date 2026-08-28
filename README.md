@@ -1,14 +1,13 @@
-Ex.No:3
-VIRTUALIZATION: INSTALLATION AND CONFIGURATION OF ORACLE VIRTUALBOX & KALI LINUX, AND EXECUTION OF BASIC LINUX COMMANDS
+# Ex.No:3
+## VIRTUALIZATION: INSTALLATION AND CONFIGURATION OF ORACLE VIRTUALBOX & KALI LINUX, AND EXECUTION OF BASIC LINUX COMMANDS
 For this experiment, we will proceed in three stages:
 •	Install Oracle VirtualBox. 
 •	Install Kali Linux on the virtual machine. 
 •	Execute basic Linux commands. 
-
-Aim
+## Aim
 To install and configure Oracle VirtualBox, install Kali Linux, and execute basic Linux commands in a virtualized environment.
 
-Objectives
+## Objectives
 After completing this experiment, students will be able to:
 •	Understand virtualization technology. 
 •	Install Oracle VirtualBox. 
@@ -18,14 +17,14 @@ After completing this experiment, students will be able to:
 •	Understand the Linux operating system. 
 
 
-Software Requirements
+## Software Requirements
 •	Windows 10 or Windows 11 
 •	Oracle VirtualBox 
 •	Kali Linux ISO image 
 •	Minimum 8 GB RAM 
 •	Minimum 50 GB free storage space 
 
-Part A – Installing Oracle VirtualBox
+## Part A – Installing Oracle VirtualBox
 Step 1
 Download Oracle VirtualBox.
 Oracle VirtualBox Downloads
@@ -45,7 +44,7 @@ Click Install.
 Step 6
 Restart the computer if required.
 
-Part B – Downloading Kali Linux
+## Part B – Downloading Kali Linux
 Step 1
 Download the Kali Linux ISO image.
 Kali Linux Downloads
@@ -56,7 +55,7 @@ Select the 64-bit installer.
 Step 3
 Wait for the download to finish.
 
-Part C – Creating a Virtual Machine
+## Part C – Creating a Virtual Machine
 Step 1
 Open VirtualBox.
 
@@ -78,7 +77,7 @@ Select the downloaded Kali Linux ISO file.
 Step 5
 Click Start.
 
-Part D – Installing Kali Linux
+## Part D – Installing Kali Linux
 1.	Select Graphical Install. 
 2.	Choose the language. 
 3.	Select the region. 
@@ -92,30 +91,30 @@ Part D – Installing Kali Linux
 
 
 
-Part E – Executing Basic Linux Commands
+## Part E – Executing Basic Linux Commands
 Command	Purpose
-pwd	Display the current directory
-ls	Display files and folders
-cd	Change the directory
-mkdir	Create a new directory
-rmdir	Remove a directory
-touch	Create a file
-cp	Copy a file
-mv	Move a file
-rm	Delete a file
-clear	Clear the terminal screen
-date	Display the current date and time
-whoami	Display the username
+-pwd	Display the current directory
+-ls	Display files and folders
+-cd	Change the directory
+-mkdir	Create a new directory
+-rmdir	Remove a directory
+-touch	Create a file
+-cp	Copy a file
+-mv	Move a file
+-rm	Delete a file
+-clear	Clear the terminal screen
+-date	Display the current date and time
+-whoami	Display the username
 
-Example
-pwd
-ls
-mkdir cloudlab
-cd cloudlab
-touch sample.txt
-ls
-date
-whoami
+## Example
+-pwd
+-ls
+-mkdir cloudlab
+-cd cloudlab
+-touch sample.txt
+-ls
+-date
+-whoami
 
-Result
+## Result
 Oracle VirtualBox was installed successfully, Kali Linux was configured successfully, and basic Linux commands were executed successfully.
