@@ -93,28 +93,28 @@ Click Start.
 
 ## Part E – Executing Basic Linux Commands
 Command	Purpose
--pwd	Display the current directory
--ls	Display files and folders
--cd	Change the directory
--mkdir	Create a new directory
--rmdir	Remove a directory
--touch	Create a file
--cp	Copy a file
--mv	Move a file
--rm	Delete a file
--clear	Clear the terminal screen
--date	Display the current date and time
--whoami	Display the username
+- pwd	Display the current directory
+- ls	Display files and folders
+- cd	Change the directory
+- mkdir	Create a new directory
+- rmdir	Remove a directory
+- touch	Create a file
+- cp	Copy a file
+- mv	Move a file
+- rm	Delete a file
+- clear	Clear the terminal screen
+- date	Display the current date and time
+- whoami	Display the username
 
 ## Example
--pwd
--ls
--mkdir cloudlab
--cd cloudlab
--touch sample.txt
--ls
--date
--whoami
+- pwd
+- ls
+- mkdir cloudlab
+- cd cloudlab
+- touch sample.txt
+- ls
+- date
+- whoami
 
 ## Result
 Oracle VirtualBox was installed successfully, Kali Linux was configured successfully, and basic Linux commands were executed successfully.
