@@ -1,4 +1,6 @@
 # Ex.No:3
+## Name: Tarakesh S
+## Reg No:212225040463
 ## VIRTUALIZATION: INSTALLATION AND CONFIGURATION OF ORACLE VIRTUALBOX & KALI LINUX, AND EXECUTION OF BASIC LINUX COMMANDS
 For this experiment, we will proceed in three stages:
 •	Install Oracle VirtualBox. 
@@ -115,6 +117,9 @@ Command	Purpose
 - ls
 - date
 - whoami
+<img width="1596" height="990" alt="image" src="https://github.com/user-attachments/assets/c94fed36-573f-4584-bce8-c54d21a1887d" />
+<img width="1307" height="907" alt="image" src="https://github.com/user-attachments/assets/259972bd-bde9-4ee4-a06f-f103841fe8aa" />
+<img width="1257" height="892" alt="image" src="https://github.com/user-attachments/assets/c7f00f87-03a2-4166-9ada-4fb53c25c81e" />
 
 ## Result
 Oracle VirtualBox was installed successfully, Kali Linux was configured successfully, and basic Linux commands were executed successfully.
